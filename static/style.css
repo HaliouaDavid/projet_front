@@ -1,0 +1,16 @@
+:root{
+/* - couleur de fond */
+    --white-light :#FDFDFD;
+/* - couleur de fond (menu) */
+    --white :#F5F5F5;
+/* - couleur du texte */
+    --black :#222222;
+/* - couleur principale */
+    --pink-light :#FF7675;
+/* - couleur principale (hover) */
+    --pink :#E06867;
+/* - couleur d'erreur */
+    --red :#D63031;
+/* - couleur de succès */
+    --green :#27AE60;
+}
